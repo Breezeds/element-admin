@@ -1,0 +1,4 @@
+@url=http://localhost:3001
+
+### 用户
+GET {{url}}/test HTTP/1.1
